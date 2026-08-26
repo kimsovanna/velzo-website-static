@@ -1,0 +1,1 @@
+import{i as s,n as a,q as n,s as r}from"./KBVo6zHg.js";const p=s({name:"QToolbar",props:{inset:Boolean},setup(o,{slots:t}){const e=r(()=>"q-toolbar row no-wrap items-center"+(o.inset?" q-toolbar--inset":""));return()=>a("div",{class:e.value,role:"toolbar"},n(t.default))}});export{p as _};
