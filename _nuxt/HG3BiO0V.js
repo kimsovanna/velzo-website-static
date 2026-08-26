@@ -1,0 +1,1 @@
+import{m as t,x as n,y as r,z as a}from"./CKXvf4z1.js";const l=t({name:"QToolbarTitle",props:{shrink:Boolean},setup(e,{slots:s}){const o=a(()=>"q-toolbar__title ellipsis"+(e.shrink?" col-shrink":""));return()=>n("div",{class:o.value},r(s.default))}}),p=()=>({isTelegramMiniApp:()=>window.Telegram?.WebApp!==void 0});export{l as _,p as u};
