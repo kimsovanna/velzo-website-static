@@ -1,1 +1,0 @@
-import{Z as r,a as e,H as c,u as n,c as o,a7 as m,O as s,K as u}from"./C4nXMQ2J.js";const f={__name:"index",setup(_){const a=r();return(l,p)=>{const t=m;return e(),c(u,null,[n(a).platform.is.desktop?(e(),o(t,{key:0,name:"blank"})):s("",!0),n(a).platform.is.mobile?(e(),o(t,{key:1,name:"blank"})):s("",!0)],64)}}};export{f as default};

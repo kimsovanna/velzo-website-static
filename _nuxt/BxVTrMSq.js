@@ -1,1 +1,0 @@
-import{aU as s}from"./dDooenlZ.js";const o=s("/social-media/facebook-pink.png"),a=s("/social-media/instagram-pink.png"),p=s("/social-media/tiktok-pink.png"),t=s("/social-media/youtube-pink.png");export{o as _,a,p as b,t as c};

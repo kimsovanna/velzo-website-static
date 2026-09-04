@@ -1,1 +1,0 @@
-import{u as a,a as i}from"./CyUNlYF5.js";import{y as n,E as s,G as r}from"./ndjp6gny.js";const u=n({name:"QResponsive",props:a,setup(e,{slots:o}){const t=i(e);return()=>s("div",{class:"q-responsive"},[s("div",{class:"q-responsive__filler overflow-hidden"},[s("div",{style:t.value})]),s("div",{class:"q-responsive__content absolute-full fit"},r(o.default))])}});export{u as _};

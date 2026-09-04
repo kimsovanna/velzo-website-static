@@ -1,1 +1,0 @@
-import"./entry.CoVGFxba.js";const i=""+globalThis.__publicAssetsURL("social-media/facebook-pink.png"),o=""+globalThis.__publicAssetsURL("social-media/instagram-pink.png"),a=""+globalThis.__publicAssetsURL("social-media/tiktok-pink.png"),p=""+globalThis.__publicAssetsURL("social-media/youtube-pink.png");export{i as _,o as a,a as b,p as c};

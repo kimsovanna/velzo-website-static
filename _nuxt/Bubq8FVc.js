@@ -1,1 +1,0 @@
-import{u as r,c,f as n,j as o,h as s,F as m,b as e,q as u}from"./CfZgFHT6.js";const f={__name:"index",setup(_){const a=r();return(l,p)=>{const t=u;return e(),c(m,null,[n(a).platform.is.desktop?(e(),o(t,{key:0,name:"blank"})):s("",!0),n(a).platform.is.mobile?(e(),o(t,{key:1,name:"blank"})):s("",!0)],64)}}};export{f as default};
