@@ -1,1 +1,0 @@
-import{S as r}from"./myvOP_nH.js";import{a as o,c as t}from"./CnOb9NA8.js";import"./DlAUqK2U.js";import"./CnjJvmIw.js";const _={__name:"sign-up",setup(a){return(e,p)=>(o(),t(r))}};export{_ as default};

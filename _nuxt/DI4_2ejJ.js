@@ -1,1 +1,0 @@
-import{Z as r,I as e,J as c,$ as n,Q as o,af as m,a3 as s,a0 as _}from"./Dvh6Asnt.js";const f={__name:"index",setup(u){const a=r();return(l,p)=>{const t=m;return e(),c(_,null,[n(a).platform.is.desktop?(e(),o(t,{key:0,name:"blank"})):s("",!0),n(a).platform.is.mobile?(e(),o(t,{key:1,name:"blank"})):s("",!0)],64)}}};export{f as default};
