@@ -1,1 +1,0 @@
-import{a9 as n,G as o,H as r,aa as c,I as s}from"./4sgr84zn.js";const l=n(async e=>{let t,a;const u=o(),{checkAuth:i}=r();if(!u.isAuthenticated||([t,a]=c(()=>i()),t=await t,a(),!t)){if(e.path!=="/login")return s("/login")}else if(e.path==="/login")return s("/")});export{l as default};

@@ -1,0 +1,1 @@
+import{ap as n,G as o,H as r,aq as c,I as s}from"./DpeMG6T5.js";const l=n(async e=>{let t,a;const u=o(),{checkAuth:i}=r();if(!u.isAuthenticated||([t,a]=c(()=>i()),t=await t,a(),!t)){if(e.path!=="/login")return s("/login")}else if(e.path==="/login")return s("/")});export{l as default};
