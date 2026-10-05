@@ -1,0 +1,1 @@
+import{Q as n,R as o,S as r,T as c,U as s}from"./Clrz96_o.js";const l=n(async e=>{let t,a;const u=o(),{checkAuth:i}=r();if(!u.isAuthenticated||([t,a]=c(()=>i()),t=await t,a(),!t)){if(e.path!=="/login")return s("/login")}else if(e.path==="/login")return s("/")});export{l as default};
