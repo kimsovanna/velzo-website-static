@@ -1,1 +1,0 @@
-import{P as r}from"./DlLrs1h4.js";import{a as t,c as o}from"./Clrz96_o.js";import"./VRPt_Yac.js";import"./CPsVeSLI.js";import"./CDkwq5Vn.js";import"./DlAUqK2U.js";import"./fF2Le4Pi.js";import"./TdJ5ZjLF.js";import"./C9dasOOT.js";const h={__name:"register",setup(e){return(p,m)=>(t(),o(r,{register:""}))}};export{h as default};
