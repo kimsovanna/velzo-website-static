@@ -1,0 +1,1 @@
+import{a5 as o,o as a,M as s}from"./C4BBxmjW.js";function d(){const n=o("desktop-viewport",()=>window.matchMedia("(min-width: 1024px)").matches);return a(()=>{const e=window.matchMedia("(min-width: 1024px)"),t=()=>{n.value=e.matches};t(),e.addEventListener("change",t),s(()=>e.removeEventListener("change",t))}),n}export{d as u};
