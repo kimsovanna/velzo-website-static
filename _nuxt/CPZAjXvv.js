@@ -1,0 +1,1 @@
+import{W as n,X as o,Y as r,Z as c,$ as s}from"./BBWMd2W1.js";const l=n(async e=>{let t,a;const u=o(),{checkAuth:i}=r();if(!u.isAuthenticated||([t,a]=c(()=>i()),t=await t,a(),!t)){if(e.path!=="/login")return s("/login")}else if(e.path==="/login")return s("/")});export{l as default};
