@@ -1,0 +1,1 @@
+import{$ as n,a0 as o,a1 as r,a2 as c,a3 as s}from"./C3aBHBk1.js";const l=n(async e=>{let t,a;const u=o(),{checkAuth:i}=r();if(!u.isAuthenticated||([t,a]=c(()=>i()),t=await t,a(),!t)){if(e.path!=="/login")return s("/login")}else if(e.path==="/login")return s("/")});export{l as default};
