@@ -1,1 +1,0 @@
-import{u as o}from"./Bl3FgtSG.js";import{a as r,c as s,V as n,u as c}from"./C3aBHBk1.js";const p={__name:"SharedResponsiveView",props:{model:{type:Object,default:()=>({})},mobile:{type:[Object,Function],required:!0},desktop:{type:[Object,Function],required:!0}},setup(e){const t=o();return(u,a)=>(r(),s(n(c(t)?e.desktop:e.mobile),{model:e.model},null,8,["model"]))}};export{p as _};
